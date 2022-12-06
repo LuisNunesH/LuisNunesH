@@ -1,4 +1,4 @@
-### Olá! Eu sou o Luis😄
+### Olá!
 
 
 - 🌱 I’m currently learning Javascript / MySQL
