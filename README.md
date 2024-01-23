@@ -1,7 +1,7 @@
 ### Olá!
 
 
-- 🌱 I’m currently learning Javascript / MySQL
+- 🌱 I’m currently learning Java / Springboot
  
 ✝️🔥
 
