@@ -5,11 +5,8 @@
  
 ✝️🔥
 
-<div>
-  <a href="https://github.com/LuisNunesH">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisNunesH&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisNunesH&layout=compact&langs_count=7&theme=gruvbox"/>
-</div>
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LuisNunesH&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisNunesH&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -36,6 +33,9 @@
 </div>
   
   ##
+  <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=LuisNunesH&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
   <div>
-  <a href="https://www.linkedin.com/in/luis-henrique-bb954a193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+   <a href="https://www.linkedin.com/in/luis-henrique-bb954a193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
