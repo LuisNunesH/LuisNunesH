@@ -21,9 +21,6 @@
 </div>
   
   ##
-  <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=LuisNunesH&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div>
   <div>
    <a href="https://www.linkedin.com/in/luis-henrique-bb954a193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
